@@ -1,4 +1,4 @@
-## Problem Statement
+# Problem Statement
 
 SimpleBuy is a clothing company which runs operations in brick and mortar fashion.
 Be it parent, child, man, woman, they have wide range of products catering to the need to every individual. They aim to become one stop destination for all clothing desires.
@@ -14,5 +14,7 @@ Private Split: May'09 to Dec'09
  
 The evaluation criteria for the problem is RMSE.
 
-## RandomForest model scored 10th position on public leaderboard 
+# Solution
+
+RandomForest model scored 10th position on public leaderboard 
 
