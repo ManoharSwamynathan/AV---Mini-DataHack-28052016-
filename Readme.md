@@ -16,5 +16,5 @@ The evaluation criteria for the problem is RMSE.
 
 ### Solution
 
-RandomForest model scored 10th position on public leaderboard 
+RandomForest model scored 10th position on the leaderboard during the competition, however post final review rank was pushed down to 107th position on public leaderboard. 
 
